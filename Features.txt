@@ -1,0 +1,24 @@
+Handshake Capture & Cracking via aircrack-ng
+Deauth Attacks to force reconnection
+WPS PIN Bruteforce using Reaver logic
+Wifi Twin Phishing with fake WPA AP
+Auto-PWN Mode – fully automated attack chain
+Monitor Mode Setup built-in
+🧪 Usage:
+bash
+Copy
+sudo python3 wifi_Fk.py
+Make sure:
+
+Your wireless card supports monitor mode (e.g., Alfa AWUS036ACS)
+You’re running Kali Linux or similar
+aircrack-ng, reaver, hostapd, dnsmasq are installed
+
+Coded By cyber Security engineer Mr sabaz ali khan 
+
+Contect No +92340977722
+Email Sabazali236@gmail.com
+Youtube  CyberOtc
+Admin Of Who Am I HAcking Group 
+
+THanks for you Using My Project 
